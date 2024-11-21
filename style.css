@@ -25,9 +25,20 @@ body {
 }
 
 .img-fluidd {
-    min-width: 50%;
+    max-width: 100%;
 }
 
 .issi {
     color: black;
+}
+
+footer {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin-top: 0vmax;
 }
