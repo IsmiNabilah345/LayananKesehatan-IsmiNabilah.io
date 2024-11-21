@@ -1,3 +1,33 @@
-.navbar {
-    background-color: transparent;
+body {
+    min-height: 1000;
+}
+
+#beranda {
+    margin-top: 8rem;
+}
+
+#fitur {
+    margin-top: 15rem;
+    min-height: 800px;
+}
+
+#tentang {
+    margin-top: 10rem;
+    min-height: 600px;
+}
+
+#kontak {
+    min-height: 500px;
+}
+
+.img-fluid {
+    max-width: 26rem;
+}
+
+.img-fluidd {
+    min-width: 50%;
+}
+
+.issi {
+    color: black;
 }
